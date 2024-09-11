@@ -1,24 +1,19 @@
-<h1 align="left">Hi 👋! My name is Ian and I'm an Indigenous math student from Mexico 🇲🇽</h1>
+<h2 align="left">Hi 👋! My name is Ian and I'm an Indigenous math student from Mexico 🇲🇽</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lann892&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lann892&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=1&date_format=%5BY.%5Dn.j" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lann892&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <img align="right" height="300" src="https://media.tenor.com/PctOsJQDTfAAAAAM/usopp.gif"  />
 
 ###
 
-<h2 align="left">My lang stack...</h2>
-
-###
+<h3 align="left">My lang stack...</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -36,9 +31,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
 </div>
 
-###
-
-<h2 align="left">My tech stack...</h2>
+<h3 align="left">My tech stack...</h3>
 
 ###
 
@@ -93,9 +86,3 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Lann892/Lann892/output/snake.svg" alt="Snake animation" />
-
-###
